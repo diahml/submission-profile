@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #ebf5f4;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #b1e2e0;
+}
+.edu {
+  background-color: #ebf5f4;
+}
+#skill {
+  background-color: #b1e2e0;
+  padding-bottom: 2rem;
+}
+.footer {
+  padding: 1rem 0;
+  background-color: #27aca7;
+}
